@@ -2,7 +2,9 @@
 ![Gold Extraction Process](goldextraction.png)
 ## Project Overview
 This project involves building a machine learning model to predict the amount of gold recovered from gold ore. The model aims to optimize production processes and eliminate unprofitable parameters for Zyfra, a company specializing in efficiency solutions for heavy industry.
+
 ![Gold Bars](gold.png)
+
 ## Objective
 
 Primary Goal: Develop a model that accurately predicts two key metrics:
